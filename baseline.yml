@@ -1,0 +1,15 @@
+rules:
+  max_high_critical_total:
+    enabled: true
+    description: "Fail if HIGH+CRITICAL findings exceed this number."
+    threshold: 0
+
+  fail_on_any_secrets:
+    enabled: true
+    description: "Fail if any secrets are detected."
+    threshold: 0
+
+  fail_on_any_iac_high:
+    enabled: true
+    description: "Fail if any HIGH severity IaC misconfig findings exist."
+    threshold: 0
