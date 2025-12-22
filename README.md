@@ -16,10 +16,6 @@ A Python CLI that turns security scan results into **consistent, audit-friendly 
 - [Installation](#installation)
 - [CLI Usage](#cli-usage)
 - [Outputs](#outputs)
-- [Baseline Policy](#baseline-policy)
-- [Evidence Schema](#evidence-schema)
-- [CI/CD Integration](#cicd-integration)
-- [Security & Data Handling](#security--data-handling)
 
 ## Purpose
 
